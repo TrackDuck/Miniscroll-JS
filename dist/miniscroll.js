@@ -112,7 +112,7 @@
 		var _this = this;
 		window.setInterval(function() {
 			_this.update();
-		}, 10);
+		}, 1000);
 	};
 
 	/**
